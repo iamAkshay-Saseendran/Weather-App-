@@ -1,2 +1,2 @@
-https://weatherappstyled.netlify.app
+hosted link : https://weatherappstyled.netlify.app
 
